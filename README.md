@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vplj2004
-- 👀 I’m interested in Web Application Development & CyberSecurity
-- 🌱 I’m currently learning Python / Javascript Frameworks
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Building Apps and Services
+- 🌱 I’m currently learning DevOps Automation
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
