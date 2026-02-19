@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vplj2004
 - 👀 I’m interested in Building Apps and Services
-- 🌱 I’m currently learning DevOps Automation
+- 🌱 I’m currently learning DevOps/ AI Automation
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
