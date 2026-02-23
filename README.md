@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @vplj2004
-- 👀 I’m interested in Building Apps and Services
+- 👀 I’m interested in Building Apps and Services & Experimenting with stuffs
 - 🌱 I’m currently learning DevOps/ AI Automation
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me ...
+- 📫 How to reach me my linkedin
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 vplj2004/vplj2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
