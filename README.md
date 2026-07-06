@@ -1,6 +1,6 @@
 <h1 data-importer="text" align="center">Hey 👋 I'm Vipul</h1>
 
-<p align="center"> Currently deep in DSA with Python.</p>
+<p align="center"> "It's not the grades you make, but the hands you shake."</p>
 
 ###
 <div data-importer="techs" align="center">
